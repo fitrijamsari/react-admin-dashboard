@@ -16,7 +16,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="top">
-        <span className="logo">ffjadmin</span>
+        <span className="logo">Dashboard</span>
       </div>
       <hr />
       <div className="center">
@@ -76,7 +76,10 @@ function Sidebar() {
           </li>
         </ul>
       </div>
-      <div className="bottom">color options</div>
+      <div className="bottom">
+        <div className="colorOption"></div>
+        <div className="colorOption"></div>
+      </div>
     </div>
   );
 }
