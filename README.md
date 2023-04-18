@@ -1,3 +1,12 @@
+# INTRODUCTION
+
+This project is a basic development front-end of web dashboard.
+
+Front-End : ReactJS
+CSS: Standard CSS
+Icon/Table etc.: Material UI
+Chart: rechart
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
